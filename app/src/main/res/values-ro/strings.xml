@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ScrnLimit</string>
+    <string name="widget_name">ScrnLimit</string>
+    <string name="widget_description">Timp de distragere azi și dacă o sesiune de focus este pornită.</string>
+    <string name="accessibility_desc">ScrnLimit folosește asta doar ca să blocheze Reels, Shorts și site-urile alese. Nu citește mesaje sau parole.</string>
+    <string name="admin_explanation">Un pas în plus înainte ca ScrnLimit să poată fi scos. Android poate totuși opri aplicația. O blocare care nu apare este salvată ca o alunecare.</string>
+    <string name="admin_disable">ScrnLimit nu va mai ține limitele dacă scoți asta.</string>
+    <string name="channel_monitor">Supraveghere</string>
+    <string name="channel_limits">Limite</string>
+    <string name="widget_kicker">Timp de ecran</string>
+    <string name="widget_session_empty">Nicio sesiune de focus</string>
+</resources>

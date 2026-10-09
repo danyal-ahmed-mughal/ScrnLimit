@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ScrnLimit</string>
+    <string name="widget_name">ScrnLimit</string>
+    <string name="widget_description">Tiempo de distracción hoy, y si hay una sesión de foco activa.</string>
+    <string name="accessibility_desc">ScrnLimit lo usa solo para bloquear Reels, Shorts y los sitios que elegiste. No lee mensajes ni contraseñas.</string>
+    <string name="admin_explanation">Un paso más antes de poder quitar ScrnLimit. Android aún puede forzar el cierre. Un bloqueo que no se dibuja se guarda como un desliz.</string>
+    <string name="admin_disable">ScrnLimit dejará de sostener tus límites si quitas esto.</string>
+    <string name="channel_monitor">Vigilancia</string>
+    <string name="channel_limits">Límites</string>
+    <string name="widget_kicker">Tiempo de pantalla</string>
+    <string name="widget_session_empty">Sin sesión de foco</string>
+</resources>

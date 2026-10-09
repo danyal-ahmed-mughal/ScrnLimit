@@ -1,0 +1,5 @@
+-keep class com.scrnlimit.screen.time.control.data.** { *; }
+-keep class com.scrnlimit.screen.time.control.block.AdminReceiver { *; }
+-keep class com.scrnlimit.screen.time.control.block.BootReceiver { *; }
+-keep class com.scrnlimit.screen.time.control.block.FeedAccessibilityService { *; }
+-keep class com.scrnlimit.screen.time.control.widget.LimitWidget { *; }

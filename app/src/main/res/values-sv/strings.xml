@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ScrnLimit</string>
+    <string name="widget_name">ScrnLimit</string>
+    <string name="widget_description">Distraherande tid idag, och om ett fokuspass är igång.</string>
+    <string name="accessibility_desc">ScrnLimit använder detta bara för att blockera Reels, Shorts och valda webbplatser. Det läser inte meddelanden eller lösenord.</string>
+    <string name="admin_explanation">Ett extra steg innan ScrnLimit kan tas bort. Android kan fortfarande tvinga appen att stanna. En blockering som inte visas sparas som en miss.</string>
+    <string name="admin_disable">ScrnLimit slutar hålla dina gränser om du tar bort detta.</string>
+    <string name="channel_monitor">Bevakning</string>
+    <string name="channel_limits">Gränser</string>
+    <string name="widget_kicker">Skärmtid</string>
+    <string name="widget_session_empty">Inget fokuspass</string>
+</resources>

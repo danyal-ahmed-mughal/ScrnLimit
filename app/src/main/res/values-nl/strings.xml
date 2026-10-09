@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ScrnLimit</string>
+    <string name="widget_name">ScrnLimit</string>
+    <string name="widget_description">Afleidende tijd vandaag, en of een focus-sessie aan staat.</string>
+    <string name="accessibility_desc">ScrnLimit gebruikt dit alleen om Reels, Shorts en gekozen sites te blokkeren. Het leest geen berichten of wachtwoorden.</string>
+    <string name="admin_explanation">Extra stap voordat ScrnLimit verwijderd kan worden. Android kan de app nog steeds stoppen. Een blokkade die niet verschijnt, wordt als een misstap bewaard.</string>
+    <string name="admin_disable">ScrnLimit houdt je limieten niet meer vast als je dit verwijdert.</string>
+    <string name="channel_monitor">Waker</string>
+    <string name="channel_limits">Limieten</string>
+    <string name="widget_kicker">Schermtijd</string>
+    <string name="widget_session_empty">Geen focus-sessie</string>
+</resources>

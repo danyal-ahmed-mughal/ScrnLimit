@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ScrnLimit</string>
+    <string name="widget_name">ScrnLimit</string>
+    <string name="widget_description">Bugünkü dikkat dağıtan süre ve bir odak oturumunun açık olup olmadığı.</string>
+    <string name="accessibility_desc">ScrnLimit bunu yalnızca Reels, Shorts ve seçtiğin siteleri engellemek için kullanır. Mesajları ve parolaları okumaz.</string>
+    <string name="admin_explanation">ScrnLimit kaldırılmadan önce ek bir adım. Android uygulamayı yine de durdurabilir. Görünmeyen bir engel kayma olarak kaydedilir.</string>
+    <string name="admin_disable">Bunu kaldırırsan ScrnLimit limitleri tutmayı bırakır.</string>
+    <string name="channel_monitor">Gözcü</string>
+    <string name="channel_limits">Limitler</string>
+    <string name="widget_kicker">Ekran süresi</string>
+    <string name="widget_session_empty">Odak oturumu yok</string>
+</resources>

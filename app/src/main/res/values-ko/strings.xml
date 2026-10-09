@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ScrnLimit</string>
+    <string name="widget_name">ScrnLimit</string>
+    <string name="widget_description">오늘의 산만한 시간과 집중 세션이 켜져 있는지.</string>
+    <string name="accessibility_desc">ScrnLimit은 Reels, Shorts, 선택한 사이트만 막기 위해 이것을 씁니다. 메시지나 비밀번호는 읽지 않습니다.</string>
+    <string name="admin_explanation">ScrnLimit을 제거하기 전의 추가 단계입니다. Android는 앱을 강제 종료할 수 있습니다. 보이지 않은 차단은 실수로 기록됩니다.</string>
+    <string name="admin_disable">이것을 제거하면 ScrnLimit은 한도를 더 이상 지키지 않습니다.</string>
+    <string name="channel_monitor">감시</string>
+    <string name="channel_limits">한도</string>
+    <string name="widget_kicker">화면 시간</string>
+    <string name="widget_session_empty">집중 세션 없음</string>
+</resources>

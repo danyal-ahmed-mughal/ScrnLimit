@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ink">#FF08090C</color>
+    <color name="card">#FF171C26</color>
+    <color name="signal">#FFE2FF5D</color>
+    <color name="paper">#FFF6F3EC</color>
+    <color name="mute">#FFA1A8B3</color>
+    <color name="coral">#FFFF5D73</color>
+</resources>

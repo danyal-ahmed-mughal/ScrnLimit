@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ScrnLimit</string>
+    <string name="widget_name">ScrnLimit</string>
+    <string name="widget_description">今天的分心时长，以及专注是否在进行。</string>
+    <string name="accessibility_desc">ScrnLimit 只用它来拦截 Reels、Shorts 和你选择的网站。它不读取消息或密码。</string>
+    <string name="admin_explanation">移除 ScrnLimit 之前的额外一步。Android 仍可以强制停止应用。没有显示出来的拦截会记为一次失手。</string>
+    <string name="admin_disable">去掉这项后，ScrnLimit 将不再守住你的上限。</string>
+    <string name="channel_monitor">监视</string>
+    <string name="channel_limits">上限</string>
+    <string name="widget_kicker">屏幕时间</string>
+    <string name="widget_session_empty">没有专注</string>
+</resources>

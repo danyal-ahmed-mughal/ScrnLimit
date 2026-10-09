@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ScrnLimit</string>
+    <string name="widget_name">ScrnLimit</string>
+    <string name="widget_description">وقت التشتت اليوم، وهل جلسة التركيز تعمل.</string>
+    <string name="accessibility_desc">يستخدم ScrnLimit هذا فقط لحجب Reels وShorts والمواقع التي اخترتها. لا يقرأ الرسائل أو كلمات المرور.</string>
+    <string name="admin_explanation">خطوة إضافية قبل إزالة ScrnLimit. ما زال بإمكان أندرويد إيقاف التطبيق. الحجب الذي لا يظهر يُحفظ كهفوة.</string>
+    <string name="admin_disable">سيتوقف ScrnLimit عن تثبيت حدودك إذا أزلت هذا.</string>
+    <string name="channel_monitor">المراقبة</string>
+    <string name="channel_limits">الحدود</string>
+    <string name="widget_kicker">وقت الشاشة</string>
+    <string name="widget_session_empty">لا جلسة تركيز</string>
+</resources>

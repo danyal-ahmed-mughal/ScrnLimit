@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ScrnLimit</string>
+    <string name="widget_name">ScrnLimit</string>
+    <string name="widget_description">Отвлекающее время сегодня и идёт ли сессия фокуса.</string>
+    <string name="accessibility_desc">ScrnLimit использует это только чтобы блокировать Reels, Shorts и выбранные сайты. Оно не читает сообщения и пароли.</string>
+    <string name="admin_explanation">Дополнительный шаг перед удалением ScrnLimit. Android всё равно может принудительно остановить приложение. Блокировка, которая не появилась, сохраняется как срыв.</string>
+    <string name="admin_disable">ScrnLimit перестанет держать лимиты, если убрать это.</string>
+    <string name="channel_monitor">Наблюдение</string>
+    <string name="channel_limits">Лимиты</string>
+    <string name="widget_kicker">Экранное время</string>
+    <string name="widget_session_empty">Нет сессии фокуса</string>
+</resources>

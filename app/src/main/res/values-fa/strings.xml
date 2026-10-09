@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ScrnLimit</string>
+    <string name="widget_name">ScrnLimit</string>
+    <string name="widget_description">زمان پرت‌شدن امروز، و اینکه نشست تمرکز روشن است یا نه.</string>
+    <string name="accessibility_desc">ScrnLimit این را فقط برای بستن Reels و Shorts و سایت‌های انتخابی به کار می‌برد. پیام‌ها و گذرواژه‌ها را نمی‌خواند.</string>
+    <string name="admin_explanation">یک گام اضافه پیش از حذف ScrnLimit. اندروید هنوز می‌تواند برنامه را متوقف کند. مسدودی که دیده نشود به‌عنوان لغزش ذخیره می‌شود.</string>
+    <string name="admin_disable">اگر این را برداری، ScrnLimit دیگر سقف‌ها را نگه نمی‌دارد.</string>
+    <string name="channel_monitor">دیده‌بان</string>
+    <string name="channel_limits">سقف‌ها</string>
+    <string name="widget_kicker">زمان صفحه</string>
+    <string name="widget_session_empty">نشست تمرکزی نیست</string>
+</resources>

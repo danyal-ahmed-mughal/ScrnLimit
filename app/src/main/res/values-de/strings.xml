@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ScrnLimit</string>
+    <string name="widget_name">ScrnLimit</string>
+    <string name="widget_description">Ablenkende Zeit heute, und ob eine Fokus-Sitzung läuft.</string>
+    <string name="accessibility_desc">ScrnLimit nutzt das nur, um Reels, Shorts und gewählte Websites zu sperren. Es liest keine Nachrichten oder Passwörter.</string>
+    <string name="admin_explanation">Zusätzlicher Schritt, bevor ScrnLimit entfernt werden kann. Android kann die App trotzdem beenden. Ein Block, der nicht erscheint, wird als Ausrutscher gespeichert.</string>
+    <string name="admin_disable">ScrnLimit hält deine Limits nicht mehr, wenn du das entfernst.</string>
+    <string name="channel_monitor">Wächter</string>
+    <string name="channel_limits">Limits</string>
+    <string name="widget_kicker">Bildschirmzeit</string>
+    <string name="widget_session_empty">Keine Fokus-Sitzung</string>
+</resources>

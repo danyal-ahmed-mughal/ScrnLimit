@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ScrnLimit</string>
+    <string name="widget_name">ScrnLimit</string>
+    <string name="widget_description">Χρόνος απόσπασης σήμερα και αν τρέχει μια συνεδρία εστίασης.</string>
+    <string name="accessibility_desc">Το ScrnLimit το χρησιμοποιεί μόνο για να μπλοκάρει Reels, Shorts και τις σελίδες που διάλεξες. Δεν διαβάζει μηνύματα ή κωδικούς.</string>
+    <string name="admin_explanation">Ένα επιπλέον βήμα πριν αφαιρεθεί το ScrnLimit. Το Android μπορεί ακόμα να σταματήσει την εφαρμογή. Ένα μπλοκάρισμα που δεν εμφανίζεται αποθηκεύεται ως ολίσθημα.</string>
+    <string name="admin_disable">Το ScrnLimit δεν θα κρατά πια τα όριά σου αν το αφαιρέσεις.</string>
+    <string name="channel_monitor">Παρακολούθηση</string>
+    <string name="channel_limits">Όρια</string>
+    <string name="widget_kicker">Χρόνος οθόνης</string>
+    <string name="widget_session_empty">Καμία συνεδρία εστίασης</string>
+</resources>

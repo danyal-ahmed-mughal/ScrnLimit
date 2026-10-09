@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ScrnLimit</string>
+    <string name="widget_name">ScrnLimit</string>
+    <string name="widget_description">Thời gian xao nhãng hôm nay, và phiên tập trung có đang chạy không.</string>
+    <string name="accessibility_desc">ScrnLimit chỉ dùng mục này để chặn Reels, Shorts và các trang bạn chọn. Nó không đọc tin nhắn hay mật khẩu.</string>
+    <string name="admin_explanation">Thêm một bước trước khi gỡ ScrnLimit. Android vẫn có thể buộc dừng ứng dụng. Lần chặn không hiện ra được lưu là một lần lỡ.</string>
+    <string name="admin_disable">ScrnLimit sẽ không còn giữ giới hạn nếu bạn gỡ mục này.</string>
+    <string name="channel_monitor">Theo dõi</string>
+    <string name="channel_limits">Giới hạn</string>
+    <string name="widget_kicker">Thời gian màn hình</string>
+    <string name="widget_session_empty">Không có phiên tập trung</string>
+</resources>

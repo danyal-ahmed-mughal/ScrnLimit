@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ScrnLimit</string>
+    <string name="widget_name">ScrnLimit</string>
+    <string name="widget_description">Nakaka-distract na oras ngayon, at kung may focus session na naka-on.</string>
+    <string name="accessibility_desc">Ginagamit ito ng ScrnLimit para lang harangin ang Reels, Shorts, at mga site na pinili mo. Hindi nito binabasa ang mga mensahe o password.</string>
+    <string name="admin_explanation">Dagdag na hakbang bago matanggal ang ScrnLimit. Puwede pa ring piliting ihinto ng Android ang app. Ang block na hindi lumabas ay nase-save bilang slip.</string>
+    <string name="admin_disable">Titigil ang ScrnLimit sa paghawak ng mga limit kung aalisin mo ito.</string>
+    <string name="channel_monitor">Bantay</string>
+    <string name="channel_limits">Mga limit</string>
+    <string name="widget_kicker">Oras sa screen</string>
+    <string name="widget_session_empty">Walang focus session</string>
+</resources>

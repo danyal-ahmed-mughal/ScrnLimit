@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ScrnLimit</string>
+    <string name="widget_name">ScrnLimit</string>
+    <string name="widget_description">Distracting time today, and whether a focus session is on.</string>
+    <string name="accessibility_desc">ScrnLimit uses this only to block Reels, Shorts, and websites you chose. It does not read messages or passwords.</string>
+    <string name="admin_explanation">Extra step before ScrnLimit can be removed. Android can still force-stop the app. A block that does not draw is saved as a slip.</string>
+    <string name="admin_disable">ScrnLimit will stop holding your limits if you remove this.</string>
+    <string name="channel_monitor">Watcher</string>
+    <string name="channel_limits">Limits</string>
+    <string name="widget_kicker">Screen time control</string>
+    <string name="widget_session_empty">No focus session</string>
+</resources>
